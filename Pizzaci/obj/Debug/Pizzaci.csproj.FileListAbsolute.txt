@@ -1,0 +1,10 @@
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\bin\Debug\Pizzaci.exe.config
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\bin\Debug\Pizzaci.exe
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\bin\Debug\Pizzaci.pdb
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csproj.AssemblyReference.cache
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.Form1.resources
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.Properties.Resources.resources
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csproj.GenerateResource.cache
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.csproj.CoreCompileInputs.cache
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.exe
+C:\Users\isa\Desktop\c#\Pizzaci\Pizzaci\obj\Debug\Pizzaci.pdb
